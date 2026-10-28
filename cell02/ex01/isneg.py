@@ -1,4 +1,7 @@
 #use if one by one to check if the number is negative, positive or zero.
+#!/usr/bin/env python3
+
+
 number = int(input().strip())
 
 if number < 0:
