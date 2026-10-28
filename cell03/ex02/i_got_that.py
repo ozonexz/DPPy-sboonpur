@@ -2,7 +2,7 @@
 
 def main():
     response = input("What you gotta say? :")
-    while True:
+    while True: #if u input sth that program it will do loop
         if response == "STOP":
             break
         response = input("I got that! Anything else? :")
