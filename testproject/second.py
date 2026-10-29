@@ -13,7 +13,7 @@ def show_menu():
 
 
 def add_record():
-    name = input("What is it? (e.g. candy): ")
+    name = input("What is it? (e.g. candy , salary): ")
     if name == "":                       # ห้ามเว้นว่าง
         print("Name cannot be empty!")
         return
