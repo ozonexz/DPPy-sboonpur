@@ -5,9 +5,9 @@ def main():
     user_input = input("Give me a number :")
     number = float(user_input)
 
-    result = int(math.ceil(number))
+    result = int(math.ceil(number)) 
     print(result)
+#celi mean ceiling function in math
 
-if __name__ == "__main__":
-    main()
+main()
 
