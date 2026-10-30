@@ -61,4 +61,4 @@ python main.py
 
 ## ผู้จัดทำ
 - sunutcha boonpurm
-- da
+- 2.Duangta Krasin
